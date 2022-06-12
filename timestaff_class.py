@@ -1,7 +1,7 @@
 import datetime
 staffdict = {
     "Gbenga":"P8107",
-    "Chukwudi":"P7089",
+    "Chukwudi":"S5401",
     "Chinwe":"P1088",
 }
 
